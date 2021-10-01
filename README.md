@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 I'm Python developer 🐍
 
 ## Some of my Github Stats
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=deflaus&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/deflaus/github-readme-stats)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=delfaus&layout=compact)](https://github.com/deflaus/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deflaus)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--![Deflaus's github stats](https://github-readme-stats.vercel.app/api?username=deflaus) -->
