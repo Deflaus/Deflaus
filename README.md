@@ -17,6 +17,8 @@ I'm Python developer 🐍
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deflaus)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deflaus&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deflaus&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deflaus&show_icons=true)
+
 
 
 
