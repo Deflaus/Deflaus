@@ -9,7 +9,7 @@ Deflaus/Deflaus is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hello there 👋, I'm Defalus!
+# Hello there 👋, I'm Deflaus!
 
 ## Some of my Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deflaus&show_icons=true&theme=dark&count_private=true)
