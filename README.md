@@ -1,4 +1,4 @@
-## Hi, I'm Daniil Savelev 👋🏼
+## Hi, I'm Daniil 👋🏼
 
 Some quick facts about me:
 
